@@ -54,7 +54,7 @@ class GraphBFS {
     }
 }
 
-public class Main {
+public class bfs {
     public static void main(String[] args) {
         GraphBFS g = new GraphBFS(5);
 
